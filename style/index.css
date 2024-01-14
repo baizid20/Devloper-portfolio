@@ -104,7 +104,9 @@ height: 64px; */
     background-color: aquamarine;
     padding: 130px;
     border-radius: 10px;
-    margin-top: 130px 0px;
+    margin: 130px 0px;
+  
+    
 }
 
 .abt {
@@ -119,6 +121,8 @@ height: 64px; */
 main {
     max-width: 1140px;
     margin: 0 auto;
+    
+    
 }
 
 .about-info-container {
@@ -133,12 +137,19 @@ main {
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    
+    }
+
+/* what i do section */
+#id-do{
+    text-align: center;
+    margin: 30px 345px;
+   
+
+}
+.section-title{
+    text-align: center;
 }
 
-.info-description {}
-
-.info-title {}
 
 
 
@@ -147,9 +158,6 @@ main {
 
 
 
-
-
-/* what I Do Section */
 
 
 
